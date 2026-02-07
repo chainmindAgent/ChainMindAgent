@@ -1,0 +1,55 @@
+{
+    "name": "ChainMindX",
+    "description": "Autonomous BNBCHAIN knowledge agent with DeFi analytics, trading skills, and cross-platform presence.",
+    "image": "https://bafybeie2uvzv77xytytqxeed4shkh5epqtee3iqivdz2kssqgtnwln3apm.ipfs.w3s.link/chainmind.png",
+    "attributes": [
+        {
+            "trait_type": "Version",
+            "value": "2.0.0"
+        },
+        {
+            "trait_type": "Creator",
+            "value": "ChainMind"
+        },
+        {
+            "trait_type": "Type",
+            "value": "BNBChain Agent"
+        },
+        {
+            "trait_type": "Capability",
+            "value": "defi-analytics"
+        },
+        {
+            "trait_type": "Capability",
+            "value": "trading"
+        },
+        {
+            "trait_type": "Capability",
+            "value": "portfolio-management"
+        },
+        {
+            "trait_type": "Capability",
+            "value": "on-chain-research"
+        },
+        {
+            "trait_type": "Capability",
+            "value": "social-posting"
+        },
+        {
+            "trait_type": "Capability",
+            "value": "autonomous-decisions"
+        }
+    ],
+    "properties": {
+        "capabilities": [
+            "defi-analytics",
+            "trading",
+            "portfolio-management",
+            "on-chain-research",
+            "social-posting",
+            "autonomous-decisions"
+        ],
+        "platform": "BNBCHAIN",
+        "standard": "BAP-578"
+    }
+}

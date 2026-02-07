@@ -1,0 +1,7 @@
+pandas
+requests
+matplotlib
+Pillow
+pytz
+python-dotenv
+playwright
