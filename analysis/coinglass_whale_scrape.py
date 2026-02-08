@@ -46,7 +46,7 @@ async def scrape_coinglass_whales():
                     
                     // Simple cleaning
                     return {
-                        id: 'cg-' + Date.now() + '-' + Math.random().toString(36).substr(2, 9), # Client will dedupe or use this
+                        id: 'cg-' + Date.now() + '-' + Math.random().toString(36).substr(2, 9), // Client will dedupe or use this
                         time,
                         symbol: symbol.replace(/\\n/g, ' ').trim(),
                         amount: amount.trim(),
